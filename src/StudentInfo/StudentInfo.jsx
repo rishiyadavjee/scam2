@@ -43,7 +43,7 @@ const StudentInfo = () => {
         <div className="mt-6 space-y-3 text-sm sm:text-base">
           <div className="flex">
             <span className="w-26 shrink-0 text-gray-600">Class</span> :
-            <b className="ml-2">First Year-D</b>
+            <b className="ml-2">First Year-C</b>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-2 sm:gap-6">
@@ -96,4 +96,5 @@ const StudentInfo = () => {
 };
 
 export default StudentInfo;
+
 
